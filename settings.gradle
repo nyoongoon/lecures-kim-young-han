@@ -1,3 +1,4 @@
 rootProject.name = 'lectures-kim-young-han'
 include 'java-basic'
+include 'java-intermediate-1'
 
